@@ -25,7 +25,7 @@ const AboutPage = () => {
         <div className="container text-center">
           <h1 className="text-4xl font-bold mb-6 sm:text-5xl">À propos de nous</h1>
           <p className="max-w-3xl mx-auto text-xl text-purple-100">
-            Découvrez Expert-Digital-Autodidacte, une agence web dirigée par Dorico D. avec 3 ans d'expertise dans la transformation digitale.
+            Découvrez Expert-Digital-Autodidacte, une agence web dirigée par Fomato F. avec 3 ans d'expertise dans la transformation digitale.
           </p>
         </div>
       </section>
@@ -42,7 +42,7 @@ const AboutPage = () => {
               <h2 className="section-title">Notre histoire</h2>
               <div className="h-1 w-20 bg-purple-700 mb-6"></div>
               <p className="text-gray-600 dark:text-gray-400 mb-4">
-                Fondée en 2022 par Dorico D., Expert-Digital-Autodidacte est née d'une passion pour le digital et d'une vision claire : aider les entreprises à réussir dans l'ère numérique.
+                Fondée en 2022 par Fomato F., Expert-Digital-Autodidacte est née d'une passion pour le digital et d'une vision claire : aider les entreprises à réussir dans l'ère numérique.
               </p>
               <p className="text-gray-600 dark:text-gray-400 mb-4">
                 Avec un parcours autodidacte et une expertise technique solide, notre fondateur a construit une agence qui se distingue par la qualité de ses réalisations et son approche personnalisée.
@@ -314,14 +314,14 @@ const AboutPage = () => {
               <div className="relative mb-6 mx-auto w-48 h-48 rounded-full overflow-hidden ring-4 ring-purple-700">
                 <img 
                   src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                  alt="Dorico D." 
+                  alt="Fomato F." 
                   className="w-full h-full object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold mb-1 text-gray-900 dark:text-white">Dorico D.</h3>
+              <h3 className="text-xl font-semibold mb-1 text-gray-900 dark:text-white">Fomato F.</h3>
               <p className="text-purple-700 dark:text-purple-400 mb-3">Fondateur & Directeur</p>
               <p className="text-gray-600 dark:text-gray-400 max-w-md mx-auto">
-                Passionné par le digital depuis toujours, Dorico a fondé Expert-Digital-Autodidacte avec la vision d'aider les entreprises à réussir dans l'ère numérique.
+                Passionné par le digital depuis toujours, Fomato F. a fondé Expert-Digital-Autodidacte avec la vision d'aider les entreprises à réussir dans l'ère numérique.
               </p>
             </motion.div>
 
