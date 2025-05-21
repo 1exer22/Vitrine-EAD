@@ -120,14 +120,14 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <Mail size={20} className="mr-2 text-purple-700 dark:text-purple-400" />
-                <a href="mailto:contact@expert-digital.com" className="text-gray-600 transition-colors hover:text-purple-700 dark:text-gray-400 dark:hover:text-purple-400">
-                  contact@expert-digital.com
+                <a href="mailto:ffomek@yahoo.fr" className="text-gray-600 transition-colors hover:text-purple-700 dark:text-gray-400 dark:hover:text-purple-400">
+                  ffomek@yahoo.fr
                 </a>
               </li>
               <li className="flex items-start">
                 <Phone size={20} className="mr-2 text-purple-700 dark:text-purple-400" />
-                <a href="tel:+33123456789" className="text-gray-600 transition-colors hover:text-purple-700 dark:text-gray-400 dark:hover:text-purple-400">
-                  +33 1 23 45 67 89
+                <a href="tel:+33775845442" className="text-gray-600 transition-colors hover:text-purple-700 dark:text-gray-400 dark:hover:text-purple-400">
+                  +33 7 75 84 54 42
                 </a>
               </li>
             </ul>

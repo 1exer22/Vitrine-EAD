@@ -94,10 +94,10 @@ const ContactPage = () => {
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-gray-900 dark:text-white">Email</h3>
                     <a 
-                      href="mailto:contact@expert-digital.com" 
+                      href="mailto:ffomek@yahoo.fr" 
                       className="text-gray-600 dark:text-gray-400 hover:text-purple-700 dark:hover:text-purple-400 transition-colors"
                     >
-                      contact@expert-digital.com
+                      ffomek@yahoo.fr
                     </a>
                   </div>
                 </div>
@@ -109,10 +109,10 @@ const ContactPage = () => {
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-gray-900 dark:text-white">Téléphone</h3>
                     <a 
-                      href="tel:+33123456789" 
+                      href="tel:+33 7 75 84 54 42" 
                       className="text-gray-600 dark:text-gray-400 hover:text-purple-700 dark:hover:text-purple-400 transition-colors"
                     >
-                      +33 1 23 45 67 89
+                      +33 7 75 84 54 42
                     </a>
                   </div>
                 </div>
@@ -124,8 +124,8 @@ const ContactPage = () => {
                   <div className="ml-4">
                     <h3 className="text-lg font-medium text-gray-900 dark:text-white">Adresse</h3>
                     <p className="text-gray-600 dark:text-gray-400">
-                      123 Avenue de l'Innovation<br />
-                      75001 Paris, France
+                      35 RUE DE LA BARBOTIÈRE<br />
+                      35000 RENNES<br />
                     </p>
                   </div>
                 </div>
